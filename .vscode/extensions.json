@@ -4,6 +4,8 @@
     "ms-vscode.vscode-typescript-next",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
+    "formulahendry.code-runner",
+    "cweijan.vscode-mysql-client2",
     "formulahendry.code-runner"
   ]
 }
